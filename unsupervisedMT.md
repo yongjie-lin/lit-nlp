@@ -45,7 +45,7 @@ A curated list of resources for Unsupervised Machine Translation.
 * Unsupervised Machine Translation Using Monolingual Corpora Only (ICLR 2018) [[paper](https://arxiv.org/abs/1711.00043)]
 * Phrase-Based & Neural Unsupervised Machine Translation (EMNLP 2018) [[paper](https://arxiv.org/abs/1804.07755) | [code](https://github.com/facebookresearch/UnsupervisedMT)]
 * Non-Adversarial Unsupervised Word Translation (EMNLP 2018) [[paper](https://arxiv.org/abs/1801.06126) | [code](https://github.com/facebookresearch/Non-adversarialTranslation)]
-* Unsupervised Neural Machine Translation (ICLR 2018) [[paper](https://arxiv.org/abs/1710.11041)] | [code] (https://github.com/artetxem/undreamt)]
+* Unsupervised Neural Machine Translation (ICLR 2018) [[paper](https://arxiv.org/abs/1710.11041) | [code](https://github.com/artetxem/undreamt)]
 * Unsupervised Statistical Machine Translation (EMNLP 2018) [[paper](https://arxiv.org/abs/1809.01272) | [code](https://github.com/artetxem/monoses)]
 * Unsupervised Neural Machine Translation with Weight Sharing (ACL 2018) [[paper](https://arxiv.org/abs/1804.09057) | [code](https://github.com/ZhenYangIACAS/unsupervised-NMT)]
 * Unsupervised Neural Machine Translation Initialized by Unsupervised Statistical Machine Translation [[paper](https://arxiv.org/abs/1810.12703)]
@@ -54,7 +54,7 @@ with Language Model and Denoising Autoencoder (EMNLP 2018) [[paper](http://aclwe
 
 ### Extensions
 * Style Transfer as Unsupervised Machine Translation [[paper](https://arxiv.org/abs/1808.07894)]
-* Zero-Shot Dual Machine Translation [[paper] (https://arxiv.org/abs/1805.10338)]
+* Zero-Shot Dual Machine Translation [[paper](https://arxiv.org/abs/1805.10338)]
 * Unsupervised Multi-modal Neural Machine Translation [[paper](https://arxiv.org/abs/1811.11365)]
 * Unsupervised Neural Text Simplification [[paper](https://arxiv.org/abs/1810.07931)]
 * Unsupervised Cross-lingual Transfer of Word Embedding Spaces [[paper](https://arxiv.org/abs/1809.03633)]
